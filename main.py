@@ -52,7 +52,9 @@ class ProcesadorDICOM:
         return self.dataframe
 
 if __name__ == "__main__":
-    ruta = "Sarcoma\img1"
+    #ruta = "Sarcoma\img1" #Si se hace solo con la misma ruta
+    ruta = input("Ruta de los archivos: )
+                 #Para ingresar cualquier ruta con archivos dcm
 
     procesador = ProcesadorDICOM(ruta)
     procesador.cargar_archivos()
