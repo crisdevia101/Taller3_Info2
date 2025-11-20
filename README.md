@@ -1,6 +1,6 @@
 1. Breve descripcion del proyecto.
 
-Este proyecto desarrolla una aplicacion en Python capaz de cargar archivos DICOM, extraer sus metadatos princiaples, analizarlos y organizarlos en un DataFrame.
+Este proyecto desarrolla una aplicacion en Python capaz de cargar archivos DICOM, extraer sus metadatos principales, analizarlos y organizarlos en un DataFrame.
 Ademas, calcula la intensidad promedio de cada imagen y permite exportar los resultados. Su proposito es simular una parte del flujo de un sistema PACS, aplicando
 estandares de informatica medica y herramienta como pydicom, numpy y pandas.
 
