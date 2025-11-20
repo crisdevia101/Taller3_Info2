@@ -1,3 +1,6 @@
+TALLER 3 - INTRODUCCION A LA INFORMATICA MEDICA
+Cristian Camilo Devia Bohorquez
+
 1. Breve descripcion del proyecto.
 
 Este proyecto desarrolla una aplicacion en Python capaz de cargar archivos DICOM, extraer sus metadatos principales, analizarlos y organizarlos en un DataFrame,
