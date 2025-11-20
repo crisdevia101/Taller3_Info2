@@ -1,5 +1,5 @@
 TALLER 3 - INTRODUCCION A LA INFORMATICA MEDICA
-Cristian Camilo Devia Bohorquez
+- Cristian Camilo Devia Bohorquez
 
 1. Breve descripcion del proyecto.
 
