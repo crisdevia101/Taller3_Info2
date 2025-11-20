@@ -16,7 +16,7 @@ class ProcesadorDICOM:
                 dicom = pydicom.dcmread(ruta_comp)
                 self.archivos_dicom.append(dicom)
             except Exception:
-                print("Archivo DICOM no valido")
+                print("{arhivo} no es un archivo DICOM valido")
 
     def extraer_metadatos(self):
         datos = []
